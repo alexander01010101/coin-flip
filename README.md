@@ -13,3 +13,7 @@ Our game's purpose is to test the luck between two players with rounds of coin s
 In order to keep the rounds entertaining, users will have the option to make the game more difficult. If they select the difficult round, the number of coins being spun and guessed will increase. For example, if they were guessing one coin, the difficult round will make them guess two coins, so they will have the chance of gaining more points if they guess all coins correctly. In order to keep the rounds entertaining, users will have the option to make the game more difficult. If they select the difficult round, the number of coins being spun and guessed will increase. For example, if they were guessing one coin, the difficult round will make them guess two coins, so they will have the chance of gaining more points if they guess all coins correctly.
 
 
+|Team member | Responsible for |
+| ---------- | ---------- |
+| Jimena | |
+| Steve | |
