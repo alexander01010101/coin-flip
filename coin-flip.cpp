@@ -25,4 +25,4 @@ int main() {
     std::cout << "Number of tails: " << tails << std::endl;
 
     return 0;
-}
+};
