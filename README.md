@@ -6,7 +6,7 @@ Team members:
 EMPLID: 24689255
 Github: 
 
--Partner 2: 
+- Partner 2: 
 EMPiD: 
 Github:
 
