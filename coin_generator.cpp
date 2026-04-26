@@ -2,7 +2,7 @@
 #include <cstdlib>
 
 
-char FlipCoin(){
+char flipCoin(){
 
     // we generate 0 and 1
     int result = rand() % 2;
